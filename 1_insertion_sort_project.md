@@ -27,7 +27,7 @@ n
 
 After the sorting is applied, the number 18 is included in "average case" where it is in the middle parts.
 
-### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+### Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
 
 |Step 1|7|3|5|8|2|9|4|15|6|
 |------|-|-|-|-|-|-|-|- |-|
