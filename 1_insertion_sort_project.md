@@ -14,9 +14,14 @@ O(n^2)
 
 ### 3. Time Complexity 
 
--Worst Case: 0+1+2+3+4…..+n-1 = [n*(n-1)]/2 : n^2
--Average Case: Average of worst and best case, which equals to n^2 
--Best Case: n 
+##### -Worst Case: 
+0+1+2+3+4…..+n-1 = [n*(n-1)]/2 : n^2
+
+##### -Average Case: 
+Average of worst and best case, which equals to n^2 
+
+##### -Best Case: 
+n 
 
 ### 4. What case does the number 18 fall into after the array is sorted?
 
